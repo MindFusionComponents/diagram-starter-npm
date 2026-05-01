@@ -105,7 +105,7 @@
     color: #bdf07c;
 }
 .mfc-menu-content.light .mfc-menuitem .mfc-menuitem-image {
-    background-image: url("icons/black/small.png");
+    background-image: url("icons/b_small.png");
     background-position: -80px 0;
 }.mfc-picker.light,
 .mfc-picker.mfc-imagepicker.light,
@@ -185,7 +185,7 @@
 }
 .mfc-tabcontrol.light .mfc-tabbutton-close
 {
-    background-image: url("icons/black/small.png");
+    background-image: url("icons/b_small.png");
     background-position: -48px 0;
 }
 .mfc-toolstrip.mfc-tabstrip.light {
@@ -205,7 +205,7 @@
 }.mfc-toolstrip.mfc-toolstrip-scrollable.light .mfc-toolstrip-cue-prev,
 .mfc-toolstrip.mfc-toolstrip-scrollable.light .mfc-toolstrip-cue-next
 {
-    background-image: url("icons/black/small.png");
+    background-image: url("icons/b_small.png");
 }
 .mfc-toolstrip.light
 {
@@ -278,7 +278,7 @@
 }
 .mfc-treeview.light .mfc-treenode .mfc-treenode-image 
 {
-     background-image: url("icons/black/small.png");
+     background-image: url("icons/b_small.png");
      background-position: -80px 0;
  }.mfc-windowhost.light
 {
@@ -312,23 +312,23 @@
 .mfc-window.light .mfc-toolstrip.mfc-toolstrip-scrollable .mfc-toolstrip-cue-prev,
 .mfc-window.light .mfc-toolstrip.mfc-toolstrip-scrollable .mfc-toolstrip-cue-next
 {
-    background-image: url("icons/black/small.png");
+    background-image: url("icons/b_small.png");
 }
 .mfc-windowhost.light .mfc-windowhost-toolstrip .mfc-toolstrip-item.mfc-toolbutton-show-all a
 {
-    background-image: url("icons/black/show-all.png");
+    background-image: url("icons/b_show-all.png");
 } 
 .mfc-windowhost.light .mfc-windowhost-toolstrip .mfc-toolstrip-item.mfc-toolbutton-restore-all a
 {
-    background-image: url("icons/black/restore-all.png");
+    background-image: url("icons/b_restore-all.png");
 } 
 .mfc-windowhost.light .mfc-windowhost-toolstrip .mfc-toolstrip-item.mfc-toolbutton-minimize-all a
 {
-    background-image: url("icons/black/minimize-all.png");
+    background-image: url("icons/b_minimize-all.png");
 } 
 .mfc-windowhost.light .mfc-windowhost-toolstrip .mfc-toolstrip-item.mfc-toolbutton-close-all a
 {
-    background-image: url("icons/black/close-all.png");
+    background-image: url("icons/b_close-all.png");
 } 
 .mfc-windowhost.light .mfc-windowhost-toolstrip.mfc-toolstrip-vertical
 {

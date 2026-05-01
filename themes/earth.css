@@ -18,7 +18,7 @@
 }
 .mfc-accordion.earth .mfc-listview-item .mfc-listview-item-image 
 {
-    background-image: url("icons/black/small.png");
+    background-image: url("icons/b_small.png");
      background-position: -80px 0;
  }.mfc-calendar.earth
 {
@@ -215,7 +215,7 @@
 }
 .mfc-tabcontrol.earth .mfc-tabbutton-close
 {
-    background-image: url("icons/black/small.png");
+    background-image: url("icons/b_small.png");
     background-position: -48px 0;
 }.mfc-tabstrip.earth ul  {
     background-color:  #f2ebcf;
@@ -223,7 +223,7 @@
 .mfc-toolstrip.mfc-toolstrip-scrollable.earth .mfc-toolstrip-cue-prev,
 .mfc-toolstrip.mfc-toolstrip-scrollable.earth .mfc-toolstrip-cue-next
 {
-    background-image: url("icons/black/small.png");
+    background-image: url("icons/b_small.png");
 }
 .mfc-toolstrip.earth
 {
@@ -300,7 +300,7 @@
 }
 .mfc-treeview.earth .mfc-treenode .mfc-treenode-image 
 {
-    background-image: url("icons/black/small.png");
+    background-image: url("icons/b_small.png");
      background-position: -80px 0;
  }.mfc-windowhost.earth
 {
@@ -350,23 +350,23 @@
 .mfc-window.earth .mfc-toolstrip.mfc-toolstrip-scrollable .mfc-toolstrip-cue-prev,
 .mfc-window.earth .mfc-toolstrip.mfc-toolstrip-scrollable .mfc-toolstrip-cue-next
 {
-    background-image: url("icons/black/small.png");
+    background-image: url("icons/b_small.png");
 }
 .mfc-windowhost.earth .mfc-windowhost-toolstrip .mfc-toolstrip-item.mfc-toolbutton-show-all a
 {
-    background-image: url("icons/black/show-all.png");
+    background-image: url("icons/b_show-all.png");
 } 
 .mfc-windowhost.earth .mfc-windowhost-toolstrip .mfc-toolstrip-item.mfc-toolbutton-restore-all a
 {
-    background-image: url("icons/black/restore-all.png");
+    background-image: url("icons/b_restore-all.png");
 } 
 .mfc-windowhost.earth .mfc-windowhost-toolstrip .mfc-toolstrip-item.mfc-toolbutton-minimize-all a
 {
-    background-image: url("icons/black/minimize-all.png");
+    background-image: url("icons/b_minimize-all.png");
 } 
 .mfc-windowhost.earth .mfc-windowhost-toolstrip .mfc-toolstrip-item.mfc-toolbutton-close-all a
 {
-    background-image: url("icons/black/close-all.png");
+    background-image: url("icons/b_close-all.png");
 } 
 .mfc-windowhost.earth .mfc-toolstrip-horizontal.mfc-toolstrip-collapsible::after {
     border-color: #f2ebcf transparent transparent transparent;

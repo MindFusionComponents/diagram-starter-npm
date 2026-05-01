@@ -14,10 +14,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@mindfusion/diagramming": "^4.8.2",
-    "@mindfusion/diagramming-controls": "^1.5.2"
+    "@mindfusion/diagramming": "^4.9.0",
+    "@mindfusion/diagramming-controls": "^1.6.0"
   },
   "devDependencies": {
-    "vite": "^5.2.0"
+    "vite": "^8.0.10"
   }
 }

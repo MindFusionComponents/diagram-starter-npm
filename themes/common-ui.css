@@ -350,7 +350,7 @@
 .mfc-menu-content .mfc-menuitem .mfc-menuitem-image {
      width: 16px;
      height: 16px;
-     background-image: url("icons/black/small.png");
+     background-image: url("icons/b_small.png");
      background-position: -80px 0;
  }
  .mfc-menu-content.mfc-menuitem-children
@@ -602,7 +602,7 @@
 }
 
 .mfc-toolstrip.mfc-window-toolstrip .mfc-toolbutton-default a {
-    background-image: url("icons/black/small.png");
+    background-image: url("icons/b_small.png");
     padding: 2px;
     height: 14px;
     width: 14px;
@@ -610,19 +610,19 @@
 }
 
 .mfc-toolstrip.mfc-windowhost-toolstrip .mfc-toolstrip-item.mfc-toolbutton-show-all a {
-    background: url("icons/black/show-all.png") no-repeat center center;
+    background: url("icons/b_show-all.png") no-repeat center center;
 }
 
 .mfc-toolstrip.mfc-windowhost-toolstrip .mfc-toolstrip-item.mfc-toolbutton-restore-all a {
-    background: url("icons/black/restore-all.png") no-repeat center center;
+    background: url("icons/b_restore-all.png") no-repeat center center;
 }
 
 .mfc-toolstrip.mfc-windowhost-toolstrip .mfc-toolstrip-item.mfc-toolbutton-minimize-all a {
-    background: url("icons/black/minimize-all.png") no-repeat center center;
+    background: url("icons/b_minimize-all.png") no-repeat center center;
 }
 
 .mfc-toolstrip.mfc-windowhost-toolstrip .mfc-toolstrip-item.mfc-toolbutton-close-all a {
-    background: url("icons/black/close-all.png") no-repeat center center;
+    background: url("icons/b_close-all.png") no-repeat center center;
 }
 
 .mfc-toolstrip.mfc-window-toolstrip .mfc-toolstrip-item.mfc-toolbutton-pin a {
@@ -679,7 +679,7 @@
     width: 16px;
     height: 16px;
     display: inline-block;
-    background-image: url("icons/black/small.png");
+    background-image: url("icons/b_small.png");
 }
 
 .mfc-toolstrip.mfc-toolstrip-horizontal.mfc-toolstrip-scrollable .mfc-toolstrip-cue-prev,
@@ -908,30 +908,30 @@
 }
 
 .mfc-tabstrip .mfc-navbutton[data-mfc="mfc-add"] img {
-    content: url("icons/black/add.png");
+    content: url("icons/b_add.png");
 }
 
 .mfc-tabstrip .mfc-navbutton[data-mfc="mfc-first"] img {
-    content: url("icons/black/first.png");
+    content: url("icons/b_first.png");
 }
 
 .mfc-tabstrip .mfc-navbutton[data-mfc="mfc-prev"] img {
-    content: url("icons/black/prev.png");
+    content: url("icons/b_prev.png");
 }
 
 .mfc-tabstrip .mfc-navbutton[data-mfc="mfc-next"] img {
-    content: url("icons/black/next.png");
+    content: url("icons/b_next.png");
 }
 
 .mfc-tabstrip .mfc-navbutton[data-mfc="mfc-last"] img {
-    content: url("icons/black/last.png");
+    content: url("icons/b_last.png");
 }
 
 .mfc-tabstrip .mfc-tabbutton-close {
     width: 16px;
     min-width: 16px;
     height: 16px;
-    background-image: url("icons/black/remove.png");
+    background-image: url("icons/b_remove.png");
     cursor: pointer;
     margin-left: 4px;
 }
@@ -1020,7 +1020,7 @@
     width: 16px;
     min-width: 16px;
     height: 16px;
-    background-image: url("icons/black/small.png");
+    background-image: url("icons/b_small.png");
     background-position: -48px 0;
     cursor: pointer;
 }
@@ -1067,7 +1067,7 @@
     height: 16px;
     display: inline-block;
     margin-right: 4px;
-    background-image: url("icons/black/small.png");
+    background-image: url("icons/b_small.png");
     background-position: -80px 0;
     cursor: pointer;
 }
@@ -1516,7 +1516,7 @@
     height: 16px;
     display: inline-block;
     margin-right: 4px;
-    background-image: url("icons/black/small.png");
+    background-image: url("icons/b_small.png");
     background-position: -96px 0;
     cursor: pointer;
 }
